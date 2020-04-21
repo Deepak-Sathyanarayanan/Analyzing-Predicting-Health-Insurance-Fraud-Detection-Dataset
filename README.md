@@ -2,6 +2,8 @@
 
 •	Project Proposal.doc - Contains overview of the project
 
+•	UnderstandingAllColumns.xlsx - Contains all the columns from all the input files
+
 •	Data.zip - Contains 8 input Test & Train .CSV files
 
 •	Test_Preprocessing.ipynb - Contains the data preprocessing code for test data
