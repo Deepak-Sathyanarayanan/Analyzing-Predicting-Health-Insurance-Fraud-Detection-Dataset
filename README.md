@@ -16,7 +16,5 @@
 
 •	Model.ipynb - Contains code for target variable prediction
 
-
-# Pending works - Visualization
-
+•	Data Story - Visualizations & Analysis
 
